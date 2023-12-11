@@ -2,7 +2,7 @@
 
 An Angular application that demonstrates best practices for user authentication & authorization flows.
 
-By [@nikosanif](https://twitter.com/nikosanif)
+By [@Djouko](https://www.linkedin.com/in/socrate-djouko-51375a248/)
 
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/nikosanif/angular-authentication)
 [![license](https://img.shields.io/github/license/nikosanif/angular-authentication.svg)](https://github.com/nikosanif/angular-authentication/blob/main/LICENSE)
